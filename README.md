@@ -8,7 +8,7 @@
 * The dataset was taken from a classification dataset from kaggle which was <ins>manually annotated by me<ins> on CVAT.
 * The manually annotated dataset is available here on my GDrive: https://drive.google.com/drive/folders/1VvDf5_g6JZtDZ2cqaiCSnUSDTlXvYTRi?usp=sharing
 
-The following are the 15 insects that can be detected with this model:
+The following are the 15 insects/classes that can be detected with this model:
 1. <ins>Killer Bees</ins>: These aggressive bees can disrupt pollination activities and pose a threat to farmworkers, making agricultural work hazardous.
 2. <ins>Aphids</ins>: Aphids suck sap from plants, weakening them and transmitting plant diseases, which can lead to reduced crop yields and stunted growth.
 3. <ins>Armyworms</ins>: Armyworms devour leaves, stems, and fruit, causing significant damage to crops such as corn, rice, and wheat, leading to yield loss and economic damage.

@@ -4,7 +4,8 @@
 
 
 * This repo contains the model weights, training code and object detection code for InsectDet, which is an object detection model to detect 15 most common harmful insects or pests that harm crops and cause massive losses to farmers all year round.
-* The dataset was taken from a classification dataset that was manually annotated by me on CVAT.
+* The model was trained on a <ins>GTX 1070 GPU for 100 epochs</ins> at 0.009 lr with AdamW optimizer with weight decay.
+* The dataset was taken from a classification dataset from kaggle which was <ins>manually annotated by me<ins> on CVAT.
 * The manually annotated dataset is available here on my GDrive: https://drive.google.com/drive/folders/1VvDf5_g6JZtDZ2cqaiCSnUSDTlXvYTRi?usp=sharing
 
 The following are the 15 insects that can be detected with this model:

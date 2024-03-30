@@ -1,7 +1,6 @@
 # InsectDet: Harmful Pests Detection for protection of crops in real time
 
 ![val_batch2_pred](https://github.com/zappy586/InsectDet/assets/89218647/d45474d2-9bb4-455f-b9c6-9546913cd86c)
-![Uploading val_batch0_labels.jpg…]()
 
 
 * This repo contains the model weights, training code and object detection code for InsectDet, which is an object detection model to detect 15 most common harmful insects or pests that harm crops and cause massive losses to farmers all year round.

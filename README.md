@@ -5,6 +5,7 @@
 
 * This repo contains the model weights, training code and object detection code for InsectDet, which is an object detection model to detect 15 most common harmful insects or pests that harm crops and cause massive losses to farmers all year round.
 * The dataset was taken from a classification dataset that was manually annotated by me on CVAT.
+* The manually annotated dataset is available here on my GDrive: https://drive.google.com/drive/folders/1VvDf5_g6JZtDZ2cqaiCSnUSDTlXvYTRi?usp=sharing
 
 The following are the 15 insects that can be detected with this model:
 1. Killer Bees: These aggressive bees can disrupt pollination activities and pose a threat to farmworkers, making agricultural work hazardous.
